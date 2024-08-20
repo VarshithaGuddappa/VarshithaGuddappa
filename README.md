@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently a student studying in B N M Institute of Engineering **a marketplace**
+ 🔭 I’m a student studying CSE in B N M Institute of Engineering.
  
  🌱 I’m currently learning **Node.js,Express.js & MongoDb**
 
