@@ -12,7 +12,7 @@
  
  🔭 I’m a student studying CSE in B N M Institute of Engineering.
  
- 🌱 I’m currently learning **React.js**
+ 🌱 I’m currently learning and working with **React.js**
 
  ⚡ Fun fact **Dropbox was inspired by a forgotten USB drive. Dropbox founder Drew Houston came up with the idea for the cloud storage service after repeatedly forgetting his USB drive at home.**
 
