@@ -12,10 +12,6 @@
  
  🔭 I’m a student studying CSE in B N M Institute of Engineering.
  
- 🌱 I’m currently learning and working with **React.js**
-
- ⚡ Fun fact **Dropbox was inspired by a forgotten USB drive. Dropbox founder Drew Houston came up with the idea for the cloud storage service after repeatedly forgetting his USB drive at home.**
-
  </div>
  
 <div align="center"> 
@@ -33,22 +29,15 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,c,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,c,java,mysql" /><br>
 </div>
 
 <br/>
 <hr/>
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=VarshithaGuddappa"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=VarshithaGuddappa&show_icons=true&count_private=true" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarshithaGuddappa&layout=compact" />
-</div>
+
 
 <br/><br/>
 
